@@ -5,7 +5,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
         <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/fonghehe">
+    <a href="https://github.com/sunnie/vue-h5-template">
         <img alt="github"
             src="https://img.shields.io/github/stars/sunniejs/vue-h5-template?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
