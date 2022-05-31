@@ -7,16 +7,9 @@
     </a>
     <a href="https://github.com/fonghehe">
         <img alt="github"
-            src="https://img.shields.io/github/stars/tobe-fe-dalao/fast-vue3?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+            src="https://img.shields.io/github/stars/sunniejs/vue-h5-template?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
-    <a href="https://www.zhihu.com/people/blind_monk">
-        <img
-            src="https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&labelColor=0084ff&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dblind_monk&longCache=true" />
-    </a>
-    <a href="https://juejin.cn/user/3016715636842622">
-        <img alt="juejin"
-            src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2021%E5%B9%B4%E5%BA%A6%E4%BD%9C%E8%80%8534%E5%90%8D-%23007fff" />
-    </a>
+   
 </p>
 </br>
 <div align="center">
