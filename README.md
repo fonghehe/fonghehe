@@ -17,8 +17,11 @@
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/-Next-black?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
 </div>
