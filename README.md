@@ -2,8 +2,8 @@
 <h2 align="center">Evan Fong <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 </p>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-        <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/sunniejs/vue-h5-template/actions">
+        <img alt="Tests Passing" src="https://github.com/sunniejs/vue-h5-template/workflows/deployment/badge.svg" />
     </a>
     <a href="https://github.com/sunniejs/vue-h5-template">
         <img alt="github"
