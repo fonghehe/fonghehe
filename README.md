@@ -40,18 +40,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>  
 
-- 🍃 **热衷新技术**，追求新技术，并应用新技术到实际的项目中 
-- 💧 **团队风格**，创新、交流、共同成长 
-- 🚀 **多年前端开发经验**，历经多个项目0-1的过程，担任主力开发 
-- 🤖 **保持Coding**，各种会议和业务战略方案下，每天保持不低于20%的CodingTime  
-- 🎯 **擅长语言**，TS，JS等，有十万级流量的线上项目。
+- 🍃 **热衷新技术**，探究新技术的应用和实践，并在实际的项目中使用 
+- 💧 **团队风格**，创新、交流、高效、共同成长 
+- 🚀 **多年前端开发经验**，历经多个端的项目0-1的过程，担任主力开发 
+- 🤖 **保持Coding**，各种会议和业务战略方案下，每天保持不低于30%的CodingTime  
+- 🎯 **擅长语言**，TS，JS等，有百万级流量的线上项目。
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript |  HTML | CSS | Vue3 | React | Angular
+- 💻 &nbsp; JavaScript | HTML | CSS | Vue | React | Angular
 - 🌐 &nbsp; Node | Golang 
-- 🛢 &nbsp;  MySQL  | Docker | Nginx | Jenkins
-- 🔧 &nbsp;  Visual Studio code | DevOps | Git
+- 🛢 &nbsp; MySQL  | Docker | Nginx | Jenkins
+- 🔧 &nbsp; VScode | Webstorm | DevOps | Git
 
 <h3 align="left">Projects</h3>
 <p>
