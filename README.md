@@ -1,3 +1,4 @@
+
 <p align="center">
 <h2 align="center">Evan Fong <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 </p>
@@ -38,7 +39,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
 
-<h3> 👨🏻‍💻 About Me </h3>  
+<h3>👨🏻‍💻 About Me </h3>  
 
 - 🍃 **热衷新技术**，探究新技术的应用和实践，并在实际的项目中使用 
 - 💧 **团队风格**，创新、交流、高效、共同成长 
@@ -52,6 +53,11 @@
 - 🌐 &nbsp; Node | Golang 
 - 🛢 &nbsp; MySQL  | Docker | Nginx | Jenkins
 - 🔧 &nbsp; VScode | Webstorm | DevOps | Git
+
+<h3>✉️ Contact Me</h3>
+
+- QQ:331002675@qq.com
+- outlook:EvanFong507@outlook.com
 
 <h3 align="left">Projects</h3>
 <p>
